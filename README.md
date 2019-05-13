@@ -1,0 +1,3 @@
+# Insider-Threats
+ 
+A study of global corporate executives by the Cert Division at Carnegie Mellon University put ‘insider threats’ at the top of their list of cyber security risks for businesses. In this instance ‘malicious insiders’ were the main cause for concern and, as with any organisation, schools’ are not immune to attacks from disgruntled employees or other insiders. However there is another key issue, the teaching of insider threats to students... A biref rundown: I am discussing and researching price and production of simple security protocols, and implementation of teaching insider threats in Univeristy. 
